@@ -1,0 +1,13 @@
+div{
+    display:inline-block;
+
+}
+
+img{
+display: block;
+}
+
+span{
+    display: block;
+    text-align: center;
+}
