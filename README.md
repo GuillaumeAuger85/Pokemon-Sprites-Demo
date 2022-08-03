@@ -2,7 +2,7 @@
 
 ### View it [here](https://guillaumeauger85.github.io/Pokemon-Sprites-Demo/)
 
-![HtmlCssJs](https://user-images.githubusercontent.com/49698792/182230114-ff1ad906-f613-4d29-a6e8-c321ef0a3380.png)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 DOM manipulation exercise from [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/) course.
 
