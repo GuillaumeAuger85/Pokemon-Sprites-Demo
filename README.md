@@ -1,4 +1,4 @@
-# Pokemon-Sprites-Demo
+# Pokemon Sprites Demo
 
 ### View it [here](https://guillaumeauger85.github.io/Pokemon-Sprites-Demo/)
 
